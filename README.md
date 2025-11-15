@@ -46,29 +46,28 @@
 
 ## AIESEC Web Application Development  
 A complete event & member management system featuring:  
-✔ Role-based dashboards  
-✔ Merchandise module  
-✔ Registration analytics   
-✔ React + Spring Boot + PostgreSQL 
+-Role-based dashboards  
+- Merchandise module  
+-Registration analytics   
+- React + Spring Boot + PostgreSQL 
 
 https://github.com/hewageumesha/AIESEC_Ruhuna
 ---
 
-## 🔹 Medicine Stock Management System  
+##  Medicine Stock Management System  
 A modern inventory system including:  
-✔ Batch tracking  
-✔ Stock alerts  
-✔ Clean UI with React  
-✔ Secure backend with Node/Spring 
+- Batch tracking  
+- Stock alerts  
+- Clean UI with React  
+- Secure backend with Node
 
 https://github.com/ishara425/medicine-stock-management
 ---
 
-# 🔥 Fun Touch  
+# Fun Touch  
 <p align="center">
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="350" />
 </p>
 
 ---
 
-<p align="center">⭐ Thanks for visiting my profile — Follow me for more updates! ⭐</p>
