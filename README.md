@@ -1,13 +1,18 @@
+<h1 align="center">Hi, I'm Ishara Palangasinghe 👋</h1>
+
+<!-- Subtitle with Gradient Colors -->
+<p align="center">
+  <span style="font-size: 18px; font-weight: bold;
+        background: linear-gradient(90deg, #6EE7FF, #A855F7, #F472B6);
+        -webkit-background-clip: text;
+        color: transparent;">
+    ICT Undergraduate | Full Stack Developer | Web Development Enthusiast
+  </span>
+</p>
+
 <!-- Animated Header Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Ishara+Palangasinghe+👋;Full+Stack+Developer+%7C+ICT+Undergraduate;Web+Development+Enthusiast;Always+Learning+New+Tech!" />
-</p>
-
----
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
