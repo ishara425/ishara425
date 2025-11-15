@@ -40,9 +40,9 @@
 
 ---
 
-## 📊 GitHub Analytics
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ishara425&show_icons=true&theme=tokyonight&rank_icon=github"/>
+
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishara425&layout=compact&theme=tokyonight"/>
 </p>
 
