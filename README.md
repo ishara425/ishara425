@@ -1,14 +1,13 @@
-<h1 align="center">Hi, I'm Ishara 👋</h1>
+<h1 align="center">Hi, I'm Ishara </h1>
 <p align="center">Always excited to learn, build, and collaborate!</p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 ICT Undergraduate
-- 🌱 Currently learning: **React.js | Node.js | Cloud | AI**
-- 🤝 Looking to collaborate on: **Web apps, cloud projects, AI tools**
-- 🔍 All my projects are available in my repositories
-- ⚡ Fun fact: I debug faster than I decide what to eat 🍔😄
+### About Me
+- ICT Undergraduate at the University of Ruhuna, Faculty of Technology
+- Currently learning: **React.js | Node.js | Cloud | AI || Springboot || Java**
+- All my projects are available in my repositories
+- Fun fact: I debug faster than I decide what to eat 🍔😄
 
 ---
 
